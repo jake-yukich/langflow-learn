@@ -1,6 +1,6 @@
 Dev Log
 
-2024-12-05
+2024-12-04
 - 
 Installed `uv`.
 
@@ -25,3 +25,9 @@ Run `Langflow` UI:
 uv run langflow run
 # visit http://127.0.0.1:7860/ in a Chromium-based browser
 ```
+2024-12-05
+- 
+`uv run langflow run` → New Flow → Basic Prompting
+
+ [ ] get an OpenAI API key
+
