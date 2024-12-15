@@ -29,5 +29,6 @@ uv run langflow run
 - 
 `uv run langflow run` → New Flow → Basic Prompting
 
- [ ] get an OpenAI API key
+ [x] get an OpenAI API key
+
 
